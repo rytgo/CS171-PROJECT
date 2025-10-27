@@ -35,16 +35,16 @@ Diabetes is a chronic disease that is caused when one's blood sugar (glucose) le
 
 ### **Andres Aclan**
 
-- **Dataset:** 
+- **Dataset:** Diabetes Health Indicators Dataset
     
-- **Content:** 
+- **Content:** 253,680 survey responses from the CDC's BRFSS2015, featuring 21 health-related features and a target variable with three classes.
     
-- **Cleaning Steps:** 
+- **Cleaning Steps:** Perform feature scaling on numerical variables and address class imbalance.
 
 
 ## Model Plans:
-Random Forest Classifier
-Clustering (?) or (KNN OR Logistic Regression)
+Random Forest Classifier,
+Clustering, or (KNN OR Logistic Regression)
 
 Our goal is to predict diabetes presence/risk, these models capture important patterns in an interpretable manner.
 
